@@ -28,6 +28,7 @@ and control the playback using FontAwesome icons.
 
 ![image](https://github.com/vijaybrat/Music-player/assets/89268124/640e7823-7fa9-46c3-83d3-8e7b5be21bdd)
 
+
 ## Installation
 
 No specific installation is required. Simply clone the repository and open the `index.html` file in a compatible web browser.
